@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cedo-react-native",
+    "slug": "cedo-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
