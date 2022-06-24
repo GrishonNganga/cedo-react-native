@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./assets/coin.png",
+    "splash": {
+        "image": "./assets/coin.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#000000"
+    }
   }
 }
